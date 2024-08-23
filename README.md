@@ -1,0 +1,1 @@
+This is a simple Python script that automates the process of creating personalized invitation letters. This tool takes a template letter, replaces placeholders with recipient names and the sender's name, and generates customized invitation letters for each person in your guest list.
